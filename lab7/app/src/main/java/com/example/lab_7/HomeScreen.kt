@@ -47,7 +47,7 @@ fun HomeScreen(navController: NavController) {
             },
             modifier = Modifier.testTag("driversButton") // for testing
         ) {
-            Text("Drivers")
+            Text("FormulaZero Drivers")
         }
     }
 }
